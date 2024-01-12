@@ -121,7 +121,7 @@ class HomePage extends HookWidget {
                                 height: 100,
                                 child: Image(
                                   image: CachedNetworkImageProvider(
-                                      "https://res.cloudinary.com/ds1swdnv8/image/upload/v1683533663/happy_a0yecu.jpg"),
+                                      "*************imgpathURL******"),
                                 ),
                               ),
                             ],
